@@ -1,0 +1,15 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+.adatok_btn{
+  text-decoration: none;
+  font-style: normal;
+  background-color: lightgray;
+  color: black;
+  border: 1px solid gray;
+  padding: 5px;
+  border-radius: 3px;
+}
